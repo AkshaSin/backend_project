@@ -1,6 +1,3 @@
-# Example
+# Basic backend project
 
-To run this example:
-
-- `npm install` or `yarn`
-- `npm run dev` or `yarn dev`
+this project contain and basic login, register and home page with working authentication and hashpassword generation.
